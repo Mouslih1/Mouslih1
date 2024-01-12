@@ -49,20 +49,20 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
      <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
+         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"  width="40" height="40" alt="spring">
     </a>
       <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
+         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"  width="40" height="40" alt="spring">
     </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-          alt="postgresql">    
+           width="40" height="40" alt="postgresql">    
     </a>
     <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins">
+        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="40" height="40" alt="jenkins">
     </a>
     <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
-        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"> 
+        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="postman"> 
     </a>
 </p>
 
