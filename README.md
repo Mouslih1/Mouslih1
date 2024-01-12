@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://mouslih0.io)-->
 <h1 align="center">Hi 👋, I'm Mouslih Marouane</h1>
-<h3 align="center">Back end developer from morocco</h3>
+<h3 align="center">Sofware enginner & Jr JAVA developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/marouane mouslih" target="blank"><img src="https://img.shields.io/twitter/follow/marouane mouslih?logo=twitter&style=for-the-badge" alt="marouane mouslih" /></a> </p>
 
-- 🔭 I’m currently working on **LARAVEL project E-commerce**
+- 🔭 I’m currently working on **Spring boot LabXpert application**
 
 - 🌱 I’m currently learning **Java, Spring boot**
 
-- 💬 Ask me about **PHP , LARAVEL**
+- 💬 Ask me about **JAVA , Spring**
 
 - 📫 How to reach me **maromouslih@gmail.com**
 
@@ -48,6 +48,34 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
+    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
+        <img src="url_de_l_image_spring" alt="Spring Framework" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+       <img src="url_de_l_image_spring_boot" alt="Spring Boot" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+       <img src="url_de_l_image_postgresql" alt="PostgreSQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+       <img src="url_de_l_image_mysql" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+       <img src="url_de_l_image_jenkins" alt="Jenkins" width="40" height="40"/>
+    </a>
+    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+       <img src="url_de_l_image_junit" alt="JUnit" width="40" height="40"/>
+    </a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="url_de_l_image_hibernate" alt="Hibernate" width="40" height="40"/>
+</a>
+<a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
+    <img src="url_de_l_image_spring_data_jpa" alt="Spring Data JPA" width="40" height="40"/>
+</a>
+
+
+
+
 </p>
 
 
