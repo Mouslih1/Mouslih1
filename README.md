@@ -48,11 +48,9 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
-<a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-    <img src="https://example.com/spring_image.svg" alt="Spring Framework" width="40" height="40"/>
-</a>
+
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://example.com/spring_boot_image.svg" alt="Spring Boot" width="40" height="40"/>
+<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://example.com/postgresql_image.svg" alt="PostgreSQL" width="40" height="40"/>
