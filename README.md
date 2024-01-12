@@ -48,29 +48,29 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
-    <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
-        <img src="url_de_l_image_spring" alt="Spring Framework" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-       <img src="url_de_l_image_spring_boot" alt="Spring Boot" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-       <img src="url_de_l_image_postgresql" alt="PostgreSQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-       <img src="url_de_l_image_mysql" alt="MySQL" width="40" height="40"/>
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-       <img src="url_de_l_image_jenkins" alt="Jenkins" width="40" height="40"/>
-    </a>
-    <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-       <img src="url_de_l_image_junit" alt="JUnit" width="40" height="40"/>
-    </a>
+ <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
+    <img src="https://example.com/spring_image.png" alt="Spring Framework" width="40" height="40"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://example.com/spring_boot_image.png" alt="Spring Boot" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://example.com/postgresql_image.png" alt="PostgreSQL" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://example.com/mysql_image.png" alt="MySQL" width="40" height="40"/>
+</a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://example.com/jenkins_image.png" alt="Jenkins" width="40" height="40"/>
+</a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
+    <img src="https://example.com/junit_image.png" alt="JUnit" width="40" height="40"/>
+</a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="url_de_l_image_hibernate" alt="Hibernate" width="40" height="40"/>
+    <img src="https://example.com/hibernate_image.png" alt="Hibernate" width="40" height="40"/>
 </a>
 <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
-    <img src="url_de_l_image_spring_data_jpa" alt="Spring Data JPA" width="40" height="40"/>
+    <img src="https://example.com/spring_data_jpa_image.png" alt="Spring Data JPA" width="40" height="40"/>
 </a>
 
 
