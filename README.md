@@ -48,29 +48,22 @@
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-<img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/postgresql_image.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/mysql_image.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/jenkins_image.svg" alt="Jenkins" width="40" height="40"/>
-</a>
-<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/junit_image.svg" alt="JUnit" width="40" height="40"/>
-</a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://example.com/hibernate_image.svg" alt="Hibernate" width="40" height="40"/>
-</a>
-<a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
-    <img src="https://example.com/spring_data_jpa_image.svg" alt="Spring Data JPA" width="40" height="40"/>
-</a>
-
+     <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
+         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
+    </a>
+      <a href="https://spring.io/projects/spring-framework" target="_blank" rel="noreferrer">
+         <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring">
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+          alt="postgresql">    
+    </a>
+    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins">
+    </a>
+    <a href="https://spring.io/projects/spring-data-jpa" target="_blank" rel="noreferrer">
+        <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"> 
+    </a>
 </p>
 
 
